@@ -1,0 +1,36 @@
+.content{
+    display:table;
+    witdth: 100%;
+    clear:both;
+}
+
+.box1{
+    height: 200px;
+    width: 80%;
+    background-color: peru;
+    float: left;
+}
+
+.box2{
+    height: 200px;
+    width: 20%;
+    background-color: blue;
+    float: left;
+    
+}
+.box3{
+    height: 200px;
+    width: 60%;
+    background-color:rgb(196, 205, 63);
+    float: left;
+}
+.box4{
+    height: 200px;
+    width: 40%;
+    background-color:rgb(63, 89, 205);
+    float: left;
+}
+.box5{
+    height: 200px;
+    width: 
+}
